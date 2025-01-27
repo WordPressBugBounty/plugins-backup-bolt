@@ -3,9 +3,9 @@ Contributors: backupbolt
 Tags: backup, wordpress backup, download backup, backups,restore, cloud backup, migrate
 Requires at least: 4.0
 License: GPL3
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 1.4.0
+Stable tag: 1.4.1
 
 Super simple one click backup your site and download the backup in compressed zip format. Choose between custom or full WordPress backup. Super easy interface without any clutter.
 
